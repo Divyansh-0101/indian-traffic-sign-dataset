@@ -1,0 +1,49 @@
+path: dataset
+train: images/train
+val: images/val
+names:
+  0: accident_prone_area
+  1: animals_crossing
+  2: bend_left
+  3: bend_right
+  4: bridge_ahead
+  5: chevron_left
+  6: chevron_right
+  7: children_crossing
+  8: compulsory_horn
+  9: crossroads
+  10: dangerous_goods
+  11: direction_sign
+  12: falling_rocks
+  13: fuel_station
+  14: hospital
+  15: junction_left
+  16: junction_right
+  17: keep_left
+  18: keep_left_or_right
+  19: max_weight_16_5_t
+  20: narrow_bridge
+  21: no_left_turn
+  22: no_parking
+  23: no_pedestrians
+  24: no_stopping
+  25: no_u_turn
+  26: pedestrian_crossing
+  27: road_narrows
+  28: roadworks
+  29: roundabout
+  30: school_zone
+  31: speed_breaker
+  32: speed_limit_20
+  33: speed_limit_40
+  34: speed_limit_50
+  35: speed_limit_50_40
+  36: speed_limit_60_45
+  37: steep_ascent
+  38: stop
+  39: t_junction
+  40: traffic_signal
+  41: two_way_traffic
+  42: unclassified_sign
+  43: uneven_road
+  44: winding_road
